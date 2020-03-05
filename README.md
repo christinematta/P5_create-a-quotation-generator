@@ -22,4 +22,4 @@ You now want to go further and offer the following options:
 
 - Once the quotes are generated, have the program generate new quotes or quit the program
 
-### [click here to run the quote generator](https://christinematta.github.io/P5_create-a-quotation-generator/Quote_Generator/html/.)
+### [click here to run the quote generator](https://christinematta.github.io/P5_create-a-quotation-generator/Quote_Generator/html/random_customized_quote_generator.html)
